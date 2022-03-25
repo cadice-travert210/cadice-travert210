@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cadice
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Web Development
